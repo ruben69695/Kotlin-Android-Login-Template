@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Login Template</string>
+    <string name="ErrorPostParamsMissing">Fehler, fehlede Parameter POST in der HTTP Anfrage</string>
+    <string name="RegistroOK"> Registriet, Sie können sich nun mit Ihrem User einlogen </string>
+    <string name="UnknownErrorRegistration">Unbekannte Fehler bei der Registrierung</string>
+    <string name="UserAlreadyExist"> Fehler, der User ist schon vorhanden</string>
+    <string name="btLogIn">Starten</string>
+    <string name="btRegister">Registrieren</string>
+    <string name="btn_link_to_login"> Sind Sie bereits Mietglied? Dann log dich ein</string>
+    <string name="btn_link_to_register">Sind Sie noch nicht Mitglied? Registrieren Sie sich jetzt.</string>
+    <string name="confirmPassword">Passwort bestätigen</string>
+    <string name="descrMenu">Wählen Sie ein Möglichkeit von der Auswahlseite</string>
+    <string name="email">Email</string>
+    <string name="errorAlRegistrar">Fehler bei der Registrierung des Users</string>
+    <string name="errorFaltanDatos">Fehler, fehlende Daten müssen eingefügt werden</string>
+    <string name="errorUsuarioYaExiste">Fehler, der User ist schon vorhanden</string>
+    <string name="incorrectPassword">Passwort nicht richtig</string>
+    <string name="iniciandoLogin">User wird geladen...</string>
+    <string name="loginToolbar">Einlogen</string>
+    <string name="mensajeCargaRegistro">Registrierung...</string>
+    <string name="name">Name</string>
+    <string name="noHayConexionServidor">Fehler: keine Verbindung mit dem Server</string>
+    <string name="passWord">Passwort</string>
+    <string name="passwordNoCoincide"> Die Passwörte sind nicht übereinstimment</string>
+    <string name="registerToolbar">Regístrieren Sie sich jetzt</string>
+    <string name="updateInfo">Information wird aktualisiert</string>
+    <string name="userNotEnabled">Der User wurde deaktiviert</string>
+    <string name="usernameNotExist">Der User existiert nicht</string>
+    <string name="Wrong_Credentials">Anmeldeinformation nicht richtig</string>
+    <string name="Session_Started">User geladen</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Login Template</string>
+    <string name="ErrorPostParamsMissing">Error, falten paràmetres POST en la petició HTTP</string>
+    <string name="RegistroOK">Ja t’has registrat. Pots iniciar sessió amb el teu usuari</string>
+    <string name="UnknownErrorRegistration">Error desconegut en registrar-te</string>
+    <string name="UserAlreadyExist">Error. L’usuari ja existeix</string>
+    <string name="btLogIn">Iniciar</string>
+    <string name="btRegister">Registrar-se</string>
+    <string name="btn_link_to_login">Ja ets un membre? Doncs inicia sessió</string>
+    <string name="btn_link_to_register">No ets membre? Registra’t ara</string>
+    <string name="confirmPassword">Confirmar la contrasenya</string>
+    <string name="descrMenu">Escull una opció del menú</string>
+    <string name="email">Correu electrònic</string>
+    <string name="errorAlRegistrar">Error en registrar l’usuari</string>
+    <string name="errorFaltanDatos">Error. Cal introduir totes les dades</string>
+    <string name="errorUsuarioYaExiste">Error. L’usuari ja existeix</string>
+    <string name="incorrectPassword">Contrasenya incorrecta</string>
+    <string name="iniciandoLogin">Iniciant sessió…</string>
+    <string name="loginToolbar">Inici de sessió</string>
+    <string name="mensajeCargaRegistro">Registrando...</string>
+    <string name="name">Nom</string>
+    <string name="noHayConexionServidor">Error. No és possible connectar-se al servidor</string>
+    <string name="passWord">Contrasenya</string>
+    <string name="passwordNoCoincide">Les contrasenyes no coincideixen.</string>
+    <string name="registerToolbar">Registra’t ara</string>
+    <string name="updateInfo">Actualitzant informació</string>
+    <string name="userNotEnabled">L’usuari està desactivat</string>
+    <string name="usernameNotExist">L’usuari no existeix</string>
+    <string name="Wrong_Credentials">Credencials incorrectes</string>
+    <string name="Session_Started">Sessió iniciada</string>
+</resources>
